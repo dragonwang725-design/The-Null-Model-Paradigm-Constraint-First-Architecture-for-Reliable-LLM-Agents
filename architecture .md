@@ -11,7 +11,8 @@
 
 ## 核心架构图
 
-![TDA Core Architecture](arch.png)
+<img width="1747" height="865" alt="arch" src="https://github.com/user-attachments/assets/1e5d7adf-aca5-41f2-a83d-b43cf55b8827" />
+
 
 **上图说明：**
 - **本地（Local）**：空模型 + 元事实库 + 判例库
