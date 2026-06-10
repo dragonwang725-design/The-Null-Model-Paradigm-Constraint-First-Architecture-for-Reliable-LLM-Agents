@@ -1,5 +1,5 @@
 # The-Null-Model-Paradigm-Constraint-First-Architecture-for-Reliable-LLM-Agents
-Null Model Paradigm All judgment must be based on facts. But the factual panorama is infinite. Extract only the facts relevant to the human purpose, and the LLM will have true judgment.
+所有的判断基于事实，而事实全景是无限的，提取跟目的一致的事实，就能让 LLM 有判断力。这就是空模型范式。
 
 # Null Model Paradigm (NMP)
 
