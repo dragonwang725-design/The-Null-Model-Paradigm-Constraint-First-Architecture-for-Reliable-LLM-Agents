@@ -104,7 +104,8 @@ Output: Physical-world execution result.
 3 Architecture: The Three-Layer Dual-Perspective (TDA)
 NMP mandates an architectural firewall between cognition and execution, augmented by a dialectical conflict-resolution layer.
 
-![TDA Core Architecture](arch.png)
+<img width="1747" height="865" alt="arch" src="https://github.com/user-attachments/assets/2a6596a1-f3a6-4fad-a1c9-33a9801d5db1" />
+
 
 Figure 1: TDA Core Architecture. The local side (right) contains the Null Model, Meta-Fact Vault, and Case Library. The cloud side (left) contains the LLM and its Case Library. The Null Model sends desanitized instructions (filtered facts + purpose) to the LLM; the LLM returns strategy proposals. The Null Model performs matching, computation, and adjudication. Data flow: User Input → L2 → Probes → L2 → L3 → L2 → Output (closed loop).
 
